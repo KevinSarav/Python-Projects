@@ -14,7 +14,7 @@ name3 = input(stringName)
 name4 = input(stringName)
 name5 = input(stringName)
 
-bill1 = input("\n" + stringBill + name2 + ": ")             #takes input to give every bill an amount for their specific person
+bill1 = input("\n" + stringBill + name1 + ": ")             #takes input to give every bill an amount for their specific person
 bill2 = input(stringBill + name2 + colon)
 bill3 = input(stringBill + name3 + colon)
 bill4 = input(stringBill + name4 + colon)
